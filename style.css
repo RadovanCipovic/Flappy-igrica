@@ -1,0 +1,37 @@
+.game-container {
+  width: 500px;
+  height: 730px;
+  position: absolute;
+}
+
+.nebo {
+  background-color: skyblue;
+  width: 500px;
+  height: 580px;
+  position: absolute;
+}
+
+.zemlja {
+  background-color: brown;
+  width: 500px;
+  height: 150px;
+  position: absolute;
+  top: 580px;
+  
+}
+
+.ptica {
+  background-color: yellow;
+  width: 60px;
+  height: 45px;
+  position: absolute;
+}
+
+.prepreka {
+  background-color: green;
+  width: 60px;
+  height: 300px;
+  position: absolute;
+}
+
+
