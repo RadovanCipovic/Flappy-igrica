@@ -18,11 +18,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   let igraTajmerID = setInterval(pocniIgru, 20);
 
-  // function kontoler(e) {
-  //   if (e.keyCode === 32) {
-  //     skok();
-  //   }
-  // }
 
   // PTICA SKOK
   function skok() {
